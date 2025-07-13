@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>K뮤직아카데미학원</title>
+  <style>
+    body {
+      background-color: #dee6da;
+      margin-left: 30px;
+    }
+
+    h1 {
+      color:darkslategrey;
+      font-family: '나눔고딕', sans-serif;
+      text-align: center;
+    }
+
+    p {
+      color:rgb(6, 89, 107);
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    h2 {
+      color:darkslategray;
+      font-family: '나눔고딕', sans-serif;
+    }
+
+    ul {
+      color: rgb(6, 89, 107);
+      font-size: 18px;
+      list-style-type: square;
+      padding-left: 20px;
+    }
+
+    a {
+      font-family: 'Nanum Gothic', sans-serif;
+      font-size: 18px;
+      color: darkblue;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: orange;
+      text-decoration:underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>반갑습니다, 서울예대 기타전공 원장 강석일입니다^^</h1>
+
+  <p>선생님 저 은지예요ㅎㅎ<br>
+  선생님께 학원 홈페이지를 만들어드리고 싶어서 웹프로그래밍을 공부하고 있어요.<br>
+  필요하시면 도와드릴게요.</p>
+
+  <h2>수업</h2>
+  <ul>
+    <li>일렉기타</li>
+    <li>통기타</li>
+    <li>베이스</li>
+    <li>드럼</li>
+    <li>건반</li>
+  </ul>
+
+  <h2>사진</h2>
+  <img src="img/screenshot.png" alt="백룸">
+
+  <h2>내가 자주 가는 사이트</h2>
+  <a href="https://openai.com/index/chatgpt/" target="_blank">CHATgpt</a><br>
+  <a href="https://www.changwon.ac.kr/portal/main.do?intro=OFF" target="_blank">창원대 와글</a>
+
+</body>
+</html>
